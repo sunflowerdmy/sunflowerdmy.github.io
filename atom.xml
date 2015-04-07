@@ -4,7 +4,7 @@
   <title><![CDATA[Me and my true love]]></title>
   <link href="http://sunflowerdmy.github.io/atom.xml" rel="self"/>
   <link href="http://sunflowerdmy.github.io/"/>
-  <updated>2015-04-07T11:32:59+08:00</updated>
+  <updated>2015-04-07T11:36:29+08:00</updated>
   <id>http://sunflowerdmy.github.io/</id>
   <author>
     <name><![CDATA[awolfly9]]></name>
@@ -21,6 +21,8 @@
     <content type="html"><![CDATA[<p>第一篇</p>
 
 <p>第一篇就成功了</p>
+
+<p>测试还会不会出现分支问题</p>
 ]]></content>
   </entry>
   

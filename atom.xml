@@ -4,7 +4,7 @@
   <title><![CDATA[Me and my true love]]></title>
   <link href="http://sunflowerdmy.github.io/atom.xml" rel="self"/>
   <link href="http://sunflowerdmy.github.io/"/>
-  <updated>2015-04-07T11:17:35+08:00</updated>
+  <updated>2015-04-07T11:31:40+08:00</updated>
   <id>http://sunflowerdmy.github.io/</id>
   <author>
     <name><![CDATA[awolfly9]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第一篇]]></title>
+    <link href="http://sunflowerdmy.github.io/blog/2015/04/07/first/"/>
+    <updated>2015-04-07T11:25:38+08:00</updated>
+    <id>http://sunflowerdmy.github.io/blog/2015/04/07/first</id>
+    <content type="html"><![CDATA[<p>第一篇</p>
+]]></content>
+  </entry>
   
 </feed>

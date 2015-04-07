@@ -4,7 +4,7 @@
   <title><![CDATA[Me and my true love]]></title>
   <link href="http://sunflowerdmy.github.io/atom.xml" rel="self"/>
   <link href="http://sunflowerdmy.github.io/"/>
-  <updated>2015-04-07T11:31:40+08:00</updated>
+  <updated>2015-04-07T11:32:59+08:00</updated>
   <id>http://sunflowerdmy.github.io/</id>
   <author>
     <name><![CDATA[awolfly9]]></name>
@@ -19,6 +19,8 @@
     <updated>2015-04-07T11:25:38+08:00</updated>
     <id>http://sunflowerdmy.github.io/blog/2015/04/07/first</id>
     <content type="html"><![CDATA[<p>第一篇</p>
+
+<p>第一篇就成功了</p>
 ]]></content>
   </entry>
   
